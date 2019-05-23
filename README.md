@@ -1,5 +1,5 @@
 # age
-Small program to return the age of a given file
+Program to return the age of a given file using the creation time of the file
 
 # Setup:
 Run getmestarted.sh
